@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAZOAFFRZ7LEKGJO5H"
-  secret_key = "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"
+  access_key = 
+  secret_key = 
 }
 
 resource "aws_instance" "kyle-server" {
